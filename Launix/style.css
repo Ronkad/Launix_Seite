@@ -8,4 +8,8 @@ li {
 }
 
 h1 {text-align: center;}
-p {text-align: center;}
+h3 {font-size: 50px;}
+p {text-align: right;}
+li {font-size: 30px;}
+.image {text-align: right;}
+body {background-color: lightblue;}
